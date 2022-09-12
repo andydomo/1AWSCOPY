@@ -5,11 +5,11 @@
     "logoWithBackground",
     "iconWithoutBackground"
   ],
-  "authorName": "Lacey",
+  "authorName": "Lacey1",
   "validImages": [
-    "iconWithoutBackground",
-    "logoWithoutBackground",
+    "iconWithBackground",
     "logoWithBackground",
-    "iconWithBackground"
+    "iconWithoutBackground",
+    "logoWithoutBackground"
   ]
 }

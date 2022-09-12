@@ -39,7 +39,7 @@
   ],
   "advancedReports": null,
   "guid": "851b0d55-907e-467b-b0c7-7712222144d8",
-  "authorName": "Lacey",
+  "authorName": "Lacey1",
   "accesstokenMethod": null,
   "tokenAddlParams": "",
   "publishPrivate": true,
@@ -59,7 +59,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:1109"
+      "$$hashKey": "object:237"
     },
     {
       "name": "lastname",
@@ -72,7 +72,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:1110"
+      "$$hashKey": "object:238"
     },
     {
       "name": "roll",
@@ -85,7 +85,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:1111"
+      "$$hashKey": "object:239"
     },
     {
       "name": "roll2",
@@ -98,7 +98,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:1112"
+      "$$hashKey": "object:240"
     },
     {
       "name": "text1",
@@ -111,7 +111,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:1113"
+      "$$hashKey": "object:241"
     },
     {
       "name": "text2",
@@ -124,7 +124,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:1114"
+      "$$hashKey": "object:242"
     },
     {
       "name": "start",
@@ -137,7 +137,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:1115"
+      "$$hashKey": "object:243"
     },
     {
       "name": "end",
@@ -150,7 +150,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:1116"
+      "$$hashKey": "object:244"
     },
     {
       "name": "drop",
@@ -180,7 +180,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:1117"
+      "$$hashKey": "object:245"
     }
   ],
   "commands": null,
@@ -340,9 +340,9 @@
   "repository": null,
   "visible": true,
   "validImages": [
-    "iconWithoutBackground",
-    "logoWithoutBackground",
+    "iconWithBackground",
     "logoWithBackground",
-    "iconWithBackground"
+    "iconWithoutBackground",
+    "logoWithoutBackground"
   ]
 }
